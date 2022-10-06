@@ -26,7 +26,7 @@ git pull
 ```
 
 * **(:To run the script, you can type:)**
-* ```python main.py```
+* ```python a.py```
 
 * **(:To Stop Script Press :)**
 * ```CTRL + Z```
