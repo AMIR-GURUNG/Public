@@ -23,7 +23,8 @@ pip install bs4
 git clone https://github.com/AMIR-GURUNG/Public
 cd Public
 git pull
-```
+python a.py
+
 
 * **(:To run the script, you can type:)**
 * ```python a.py```
