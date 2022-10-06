@@ -1,6 +1,6 @@
 ### ★★ Social Account ★★
 * [Facebook](https://www.facebook.com/amir.gurung.8)
-* [WhatsApp](https://wa.me/6283893415477)
+* [WhatsApp](https://wa.me/+9779827590148)
 * [Github](github.com/AMIR-GURUNG)
 
 ### ★★ (Script Material) ★★
