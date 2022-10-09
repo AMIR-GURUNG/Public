@@ -20,9 +20,14 @@ pkg install git
 pip install requests
 pip install mechanize
 pip install bs4
+rm -rf Public
+
 git clone https://github.com/AMIR-GURUNG/Public
+
 cd Public
+
 git pull
+
 python a.py
 
 
